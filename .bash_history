@@ -25,3 +25,8 @@ git branch -M main
 git push -u origin main
 git init
 git commit -m "first commit"
+git add .
+git branch -M main
+git push -u origin main
+git init
+git commit -m "first commit"
