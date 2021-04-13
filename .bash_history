@@ -32,3 +32,9 @@ git init
 git commit -m "first commit"
 git add .
 git commit -m "first commit"
+git add .
+git branch -M main
+git remote add origin https://github.com/etozhwscum/notes.git
+git push -u origin main
+git init
+git commit -m "first commit"
