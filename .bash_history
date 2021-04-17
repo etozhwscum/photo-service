@@ -53,3 +53,34 @@ git add .
 git commit -m "first commit"
 git init
 git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/etozhwscum/kursovaya.git
+git push -u origin main
+git remote add origin https://github.com/etozhwscum/kursovaya.git
+git branch -M main
+git push -u origin main
+cd курсовая
+git init
+git commit -m "first commit"
+git add .
+git branch -M main
+git remote add origin https://github.com/etozhwscum/kursovaya.git
+git push -u origin main
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/etozhwscum/kursovaya.git
+git push -u origin main
+cd курсовая
+git init
+git commit -m "first commit"
+git add .
+git branch -M main
+git remote add origin https://github.com/etozhwscum/PW-3.git
+git push -u origin main
+git remote add origin https://github.com/etozhwscum/PW-3.git
+git branch -M main
+git push -u origin main
+git init
+git commit -m "first commit"
+git add

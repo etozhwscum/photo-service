@@ -5,10 +5,8 @@
 	<link rel="stylesheet" type="text/css" href="style/css.css">
 </head>
 <body>
-	
 	<?php require('templates/header.php');?>
-	<?php require('templates/slider.php');?>
+	<?php require('templates/vacancy_main.php');?>
 	<?php require('templates/footer.php');?>
-
 </body>
 </html>

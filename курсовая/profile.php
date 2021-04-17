@@ -10,7 +10,7 @@ session_start();
 <body>
     <?php require('templates/header.php');?>
     <div class="user">
-        <h1>Profile</h1>
+        <h1>Профиль</h1>
         <form>
             <img class="userPic" src="<?= $_SESSION['user']['avatar'] ?>" width="200" alt="Фото профиля">
             <h2 style="margin: 10px 0;"><?= $_SESSION['user']['full_name'] ?></h2>

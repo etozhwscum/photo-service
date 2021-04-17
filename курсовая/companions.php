@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Companions</title>
+	<title>Компаньоны</title>
 	<link rel="stylesheet" type="text/css" href="style/css.css">
 </head>
 <body>

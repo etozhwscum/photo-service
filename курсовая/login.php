@@ -14,11 +14,11 @@ if ($_SESSION['user']) {
 <body>
 	<?php require('templates/header.php');?>
 	<div class="login">
-		<h1>Login</h1>
+		<h1>Авторизация</h1>
 		<form action="vendor/signin.php" method="post">
         <p><input type="text" name="login" placeholder="Имя пользователя" required></p>
         <p><input type="password" name="password" placeholder="Пароль" required></p>
-        <button type="submit">Accept</button>
+        <button type="submit"><p>Accept<p></button>
         <p>
            <a href="register.php">Зарегистрироваться</a>
         </p>
